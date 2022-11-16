@@ -1,0 +1,11 @@
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.csproj.AssemblyReference.cache
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.frmMain.resources
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.csproj.GenerateResource.cache
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\bin\Debug\PrySp3AutoTest.exe.config
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\bin\Debug\PrySp3AutoTest.exe
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\bin\Debug\PrySp3AutoTest.pdb
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.Properties.Resources.resources
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.exe
+C:\Users\Lucas Franco\Desktop\PrySp3AutoTest\PrySp3AutoTest\obj\Debug\PrySp3AutoTest.pdb

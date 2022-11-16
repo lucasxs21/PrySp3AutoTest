@@ -1,0 +1,11 @@
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\bin\Debug\PrySp3AutoTest-Cantallops.exe.config
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\bin\Debug\PrySp3AutoTest-Cantallops.exe
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\bin\Debug\PrySp3AutoTest-Cantallops.pdb
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest-Cantallops.csproj.AssemblyReference.cache
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest-Cantallops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest_Cantallops.Properties.Resources.resources
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest-Cantallops.csproj.GenerateResource.cache
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest-Cantallops.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest-Cantallops.exe
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest-Cantallops.pdb
+C:\Users\Lucas Franco\Source\Repos\PrySp3AutoTest-Cantallops\PrySp3AutoTest-Cantallops1\obj\Debug\PrySp3AutoTest_Cantallops.frmMain.resources
